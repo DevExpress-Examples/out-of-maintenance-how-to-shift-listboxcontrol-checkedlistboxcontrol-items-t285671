@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCheckedListBoxControl.cs](./CS/WindowsApplication1/CustomControls/CustomCheckedListBoxControl.cs) (VB: [CustomCheckedListBoxViewInfo.vb](./VB/WindowsApplication1/CustomControls/CustomCheckedListBoxControl/CustomCheckedListBoxViewInfo.vb))
+* [CustomCheckedListBoxControl.cs](./CS/WindowsApplication1/CustomControls/CustomCheckedListBoxControl/CustomCheckedListBoxControl.cs) (VB: [CustomCheckedListBoxControl.vb](./VB/WindowsApplication1/CustomControls/CustomCheckedListBoxControl/CustomCheckedListBoxControl.vb))
+* [CustomCheckedListBoxViewInfo.cs](./CS/WindowsApplication1/CustomControls/CustomCheckedListBoxControl/CustomCheckedListBoxViewInfo.cs) (VB: [CustomCheckedListBoxViewInfo.vb](./VB/WindowsApplication1/CustomControls/CustomCheckedListBoxControl/CustomCheckedListBoxViewInfo.vb))
+* [CustomCheckedListBoxViewInfo.cs](./CS/WindowsApplication1/CustomControls/CustomCheckedListBoxViewInfo.cs)
+* **[CustomListBoxControl.cs](./CS/WindowsApplication1/CustomControls/CustomListBoxControl/CustomListBoxControl.cs) (VB: [CustomListBoxControl.vb](./VB/WindowsApplication1/CustomControls/CustomListBoxControl/CustomListBoxControl.vb))**
+* [CustomListBoxViewInfo.cs](./CS/WindowsApplication1/CustomControls/CustomListBoxControl/CustomListBoxViewInfo.cs) (VB: [CustomListBoxViewInfo.vb](./VB/WindowsApplication1/CustomControls/CustomListBoxControl/CustomListBoxViewInfo.vb))
+* [ItemInfoEventArgs.cs](./CS/WindowsApplication1/CustomControls/ItemInfoEventArgs.cs) (VB: [ItemInfoEventArgs.vb](./VB/WindowsApplication1/CustomControls/ItemInfoEventArgs.vb))
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/Program.vb))
+<!-- default file list end -->
 # How to shift  ListBoxControl / CheckedListBoxControl items
 
 
